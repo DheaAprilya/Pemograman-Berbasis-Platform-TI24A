@@ -1,0 +1,11 @@
+{
+  "name": "pbp6_dheaaprilya_20240040136",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhea Aprilya",
+  "license": "ISC"
+}
